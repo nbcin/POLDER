@@ -1,4 +1,5 @@
-# Version
+# CMAKE Version  2.6.3 
+
 cmake_minimum_required(VERSION 2.6.3)
 
 # C++ version check
@@ -96,4 +97,3 @@ endif()
 # POLDER does not use them
 # NOTE: Commented for now, should work with SVN libstc++ or coming GCC 4.8
 # add_definitions("-D_GLIBCXX_USE_DEPRECATED=0")
-
